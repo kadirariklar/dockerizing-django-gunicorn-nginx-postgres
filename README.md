@@ -23,8 +23,8 @@ PostgreSQL was used as the database. PostgreSQL information has been entered in 
 1. Install Docker on your operating system
 2. Install docker-compose on your operating system
 3. Run the following command to create and run the project
-4. cd 
-
-5. Go to  `http://127.0.0.1:80/` or just type `localhost` in your browser to use project
+4. cd dockerizing-django-gunicorn-nginx-postgresql-main   # change directory to run the bash script.
+5. ./start.sh                                             # run docker-compose file via start.sh
+6. Go to  `http://127.0.0.1:80/` or just type `localhost` in your browser to use project for Nginx side, `localhost:8000` for application side (Gunicorn)
 
  
