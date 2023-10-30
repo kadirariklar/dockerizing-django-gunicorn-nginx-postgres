@@ -19,7 +19,7 @@ Nginx was used in the mix to act as a reverse proxy for Gunicorn to handle clien
 
 PostgreSQL was used as the database. PostgreSQL information has been entered in the application's "settings.py" file.
 
-![Alt text](Secrenshots/containerizing.png)
+![Alt text](containerizing.png)
 
  
 >>>>>>> 78bde9c (Readme and screenshots arranging)
