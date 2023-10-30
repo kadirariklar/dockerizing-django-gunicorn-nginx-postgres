@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 <h1>Dockerizing Django Application with Gunicorn - Nginx - PostgreSQL</h1>
 
 <h2>A free container platform including open-source Blog CMS based on the <strong>Django with Gunicorn, Nginx and PostgreSQL</strong></h2>
@@ -22,4 +19,3 @@ PostgreSQL was used as the database. PostgreSQL information has been entered in 
 ![Alt text](Screenshots/containerizing.png)
 
  
->>>>>>> 78bde9c (Readme and screenshots arranging)
