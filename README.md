@@ -6,7 +6,7 @@
 
 <h4>PyEditorial (Django Application) </h4>
 
-It is a CMS application to be used as a container. For detailed information, visit https://github.com/mavenium/PyEditorial.
+It is a CMS application to be used as a container. For detailed information, visit https://github.com/mavenium/PyEditorial
 
 <h3>Nginx</h3>
 
@@ -17,5 +17,14 @@ Nginx was used in the mix to act as a reverse proxy for Gunicorn to handle clien
 PostgreSQL was used as the database. PostgreSQL information has been entered in the application's "settings.py" file.
 
 ![Alt text](Screenshots/containerizing.png)
+
+### Run with Docker
+
+1. Install Docker on your operating system
+2. Install docker-compose on your operating system
+3. Run the following command to create and run the project
+4. cd 
+
+5. Go to  `http://127.0.0.1:80/` or just type `localhost` in your browser to use project
 
  
