@@ -27,4 +27,6 @@ PostgreSQL was used as the database. PostgreSQL information has been entered in 
 5. ./start.sh                                             # run docker-compose file via start.sh
 6. Go to  `http://127.0.0.1:80/` or just type `localhost` in your browser to use project for Nginx side, `localhost:8000` for application side (Gunicorn)
 
+.
+
  
